@@ -73,7 +73,7 @@
 		06F6C6611FF3FE6F00E055F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4214CBF91FDFE34A00C7AB61 /* SnappyShrimp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SnappyShrimp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4214CBFC1FDFE34A00C7AB61 /* SnappyShrimp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SnappyShrimp.h; path = Sources/SnappyShrimp.h; sourceTree = "<group>"; };
-		4214CBFD1FDFE34A00C7AB61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = Sources/Info.plist; sourceTree = "<group>"; };
+		4214CBFD1FDFE34A00C7AB61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4214CC261FDFE62600C7AB61 /* HostWindow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HostWindow.swift; sourceTree = "<group>"; };
 		4214CC271FDFE62700C7AB61 /* Specifications.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Specifications.swift; sourceTree = "<group>"; };
 		4214CC281FDFE62700C7AB61 /* SnapshotTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnapshotTest.swift; sourceTree = "<group>"; };
